@@ -1,4 +1,4 @@
-/**
+/*
     1. ctrl+b -> to hide and show side bar.
     2. ctrl+shift+p -> command path.
     3. ctrl+p -> file switcher.
@@ -16,4 +16,7 @@
             //#endregion
     11. ctrl + shift + l -> to select all the same element.
     12. ctrl + d -> to shift one by by.
-*/
+    13. ctrl + 0 -> to move side bar.
+    14. ctrl + 1 -> to move on screent.
+    15. select and press f2 to rename.
+    */
